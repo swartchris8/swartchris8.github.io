@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
-published: true
+sidebar_link: true
 ---
 
 Chris Swart has more than 3 years experience building Natural Language Processing products and services. He can deliver NLP projects from the drawing board, through data augmentation and model tuning, to deploying APIs to serve models. He has worked with email, complaint, and biotech companies. 
