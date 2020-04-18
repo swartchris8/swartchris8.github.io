@@ -1,5 +1,5 @@
 ---
-layout: post/
+layout: post
 title: "Clustering & Classification - When to use which technique?"
 categories:
   - NLP
