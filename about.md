@@ -16,4 +16,4 @@ Please get in touch if you are interested in arranging a speaker engagement, con
 
 ### Contact me
 
-[[first letter of first name][last name]@outlook.com](mailto:[first letter of first name][last name]@outlook.com)
+[cswart@outlook.com](mailto:cswart@outlook.com)
