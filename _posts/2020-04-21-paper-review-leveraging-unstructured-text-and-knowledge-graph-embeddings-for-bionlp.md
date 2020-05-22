@@ -10,7 +10,7 @@ The paper describes **BERT-Medical Knowledge based on BioBERT**, BERT language m
 
 ### BERT-Medical Knowledge architecture
 
-![Figure 3 from the paper](/Users/chris/swartchris8.github.io/assets/bert_mk_model_overview.png)
+![Figure 3 from the paper](/assets/bert_mk_model_overview.png)
 
 Transformer on the left is BioBERT, Transformer on the right is ERNIE.
 
@@ -27,7 +27,7 @@ Transformer on the left is BioBERT, Transformer on the right is ERNIE.
 
 ###Create a node sequence from an arbitrary subgraph
 
-![Figure 2 from the paper describing how subgraphs are represented as node sequences](../assets/subgraph_to_node_sequence.png)
+![Figure 2 from the paper describing how subgraphs are represented as node sequences](/assets/subgraph_to_node_sequence.png)
 
 Figure 2 from the paper descibes how subgraphs are converted into node sequences for reconstructing particular triples a node position index (P in formulae) and an adjacency matrix (A in formulae) are used. Step b in creating a node sequence shows that relations are considered nodes. So **relations and entities are jointly learnt as node embeddings**
 
@@ -39,21 +39,21 @@ Figure 2 from the paper descibes how subgraphs are converted into node sequences
 
 Concatenate the attention weights
 
-![Formula 1 from the paper](../assets/kg_embeddings_transformer_fomula1.png)
+![Formula 1 from the paper](/assets/kg_embeddings_transformer_fomula1.png)
 
 Which are the softmax of the attention score scaled by a constant:
 
-![Formula 2 from the paper](../assets/kg_embeddings_transformer_fomula2.png)
+![Formula 2 from the paper](/assets/kg_embeddings_transformer_fomula2.png)
 
 Calculate attention score for degree-in nodes and current node:
 
-![Formula 3 from the paper](../assets/kg_embeddings_transformer_fomula3.png)
+![Formula 3 from the paper](/assets/kg_embeddings_transformer_fomula3.png)
 
 ### Training objective: Triple Reconstruction
 
 Based on the translation based scoring function reconstruct triples:
 
-![Formula 6 from the paper](../assets/triple_restoration.png)
+![Formula 6 from the paper](/assets/triple_restoration.png)
 
 ##### Bernoulli trick
 
@@ -77,7 +77,7 @@ Tail gets corrupted based on **hpt / (tph + hpt)**
 
 Combining BioBERT and ERNIE finetuning the combined model achieves good results as seen below:
 
-![Table 3 from the paper describing perfromance](../assets/rel_extraction_and_entity_typing.png)
+![Table 3 from the paper describing perfromance](/assets/rel_extraction_and_entity_typing.png)
 
 Would be interesting to see this technique applied to other BioNLP tasks in the future. We can surely better leverage the large structured knowledge graphs to improve BioNLP
 
