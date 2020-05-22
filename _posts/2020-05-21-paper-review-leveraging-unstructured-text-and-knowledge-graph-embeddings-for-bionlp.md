@@ -89,5 +89,3 @@ Combining BioBERT and ERNIE finetuning the combined model achieves good results 
 ![Table 3 from the paper describing perfromance](/assets/rel_extraction_and_entity_typing.png)
 
 Would be interesting to see this technique applied to other BioNLP tasks in the future. We can surely better leverage the large structured knowledge graphs to improve BioNLP
-
-## 
