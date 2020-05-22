@@ -1,8 +1,17 @@
-# Paper Review: Leveraging unstructured text and knowledge graph embeddings for BioNLP
+---
+layout: post
+title: "Paper Review: Leveraging unstructured text and knowledge graph embeddings for BioNLP"
+categories:
+  - Paper Review
+tags:
+  - knowledge_graph
+  - bionlp
+last_modified_at: 2020-04-22T08:59:27-05:00
+---
 
 
 
-[Integrating Graph Contextualized Knowledge into Pre-trained Language Models](https://arxiv.org/abs/1912.00147) a biomedical NLP paper about integrating free text and a knowledge graph.
+Today I will be looking at the paper [Integrating Graph Contextualized Knowledge into Pre-trained Language Models](https://arxiv.org/abs/1912.00147) a biomedical NLP paper about integrating free text and a knowledge graph.
 
 The paper describes **BERT-Medical Knowledge based on BioBERT**, BERT language model built with open acess Pubmed abstracts and articles, **and ERNIE**, a BERT model for knowledge graph embeddings **initialised with TransE graph embeddings**.
 
