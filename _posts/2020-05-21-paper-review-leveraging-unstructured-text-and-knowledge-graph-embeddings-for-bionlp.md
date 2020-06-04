@@ -11,9 +11,14 @@ last_modified_at: 2020-05-22T08:59:27-05:00
 
 
 
-Today I will be looking at the paper [Integrating Graph Contextualized Knowledge into Pre-trained Language Models](https://arxiv.org/abs/1912.00147) a biomedical NLP paper about integrating free text and a knowledge graph.
+Today I will be looking at the paper [Integrating Graph Contextualized Knowledge into Pre-trained Language Models](https://arxiv.org/abs/1912.00147) a biomedical NLP paper about integrating free text and a knowledge graph for **entity typing** and **relation extraction**.
 
-The paper describes **BERT-Medical Knowledge based on BioBERT**, BERT language model built with open acess Pubmed abstracts and articles, **and ERNIE**, a BERT model for knowledge graph embeddings **initialised with TransE graph embeddings**.
+In the biomedical domain supervised text training data can be rare while large strutcured knowledge graphs are widely available. Using knowledge graphs to improve BioNLP tasks seemed like an interesting idea.
+
+The paper describes **BERT-Medical Knowledge combining**
+
+* **BioBERT**, BERT language model built with open acess Pubmed abstracts and articles
+* **BERT model for UMLS knowledge graph embeddings** initialised with TransE graph embeddings
 
 
 
@@ -21,7 +26,7 @@ The paper describes **BERT-Medical Knowledge based on BioBERT**, BERT language m
 
 ![Figure 3 from the paper](/assets/bert_mk_model_overview.png)
 
-Transformer on the left is BioBERT, Transformer on the right is ERNIE.
+Transformer on the left is BioBERT, Transformer on the right is BERT model for knowledge graph embeddings initialised with TransE graph embeddings. I
 
 ## How are knowledge graphs used with a Transformer?
 
@@ -38,11 +43,18 @@ Transformer on the left is BioBERT, Transformer on the right is ERNIE.
 
 ![Figure 2 from the paper describing how subgraphs are represented as node sequences](/assets/subgraph_to_node_sequence.png)
 
-Figure 2 from the paper descibes how subgraphs are converted into node sequences for reconstructing particular triples a node position index (P in formulae) and an adjacency matrix (A in formulae) are used. Step b in creating a node sequence shows that relations are considered nodes. So **relations and entities are jointly learnt as node embeddings**
+As you can see from the above figure you create a sequence where all nodes that have a directed edge `s1 -> r1 -> o1` will be translated into a sequence `(s1)(r1)(o1)` as you can see **relations are jointly learnt as node embeddings**. Using the above approach if there are multiple inbound edges then all inbound sequences will be placed before the node it set. So if we also have `s2 -> r2 -> o1` then the combined output sequence will be  `(s1)(r1)(s2)(r2)(o1)`. 
+
+In addition to the node sequences the below are created:
+
+1. a node position index P where each row represents a triple
+2. adjacency matrix A where each value represents and edge between two nodes
 
 
 
 ### Transformer based encoder for node sequences
+
+Seems like a standard Transformer encoder setup with an addition of limiting attention score to in-degree nodes and current nodes.
 
 
 
@@ -57,6 +69,8 @@ Which are the softmax of the attention score scaled by a constant:
 Calculate attention score for degree-in nodes and current node:
 
 ![Formula 3 from the paper](/assets/kg_embeddings_transformer_fomula3.png)
+
+
 
 ### Training objective: Triple Reconstruction
 
@@ -82,10 +96,22 @@ Tail gets corrupted based on **hpt / (tph + hpt)**
 
 
 
-## Experimental results
+### Combining node & BioBERT embeddings
+
+It is not clear from the paper how node and BioBERT embeddings are combined. The architecture diagram just shows an `Information Fusion` step combining `Multi headed attention` steps based on the embedding input. Based on this my basic assumption would be the multi headed attention output of the embeddings is concatenated as that would be the most basic form of `Information fusion`.
+
+
+
+### Results
 
 Combining BioBERT and ERNIE finetuning the combined model achieves good results as seen below:
 
 ![Table 3 from the paper describing perfromance](/assets/rel_extraction_and_entity_typing.png)
 
 Would be interesting to see this technique applied to other BioNLP tasks in the future. We can surely better leverage the large structured knowledge graphs to improve BioNLP
+
+
+
+### Credits
+
+All images are from the paper
