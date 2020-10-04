@@ -1,19 +1,11 @@
 ---
-
 layout: post
-
 title: "Musing about why spacy vocabulary size improves NER"
-
 categories:
-
- \- Musings
-
+- Musings
 tags:
-
- \- bionlp
-
+- bionlp
 last_modified_at: 2020-10-04T20:59:27-05:00
-
 ---
 
 
