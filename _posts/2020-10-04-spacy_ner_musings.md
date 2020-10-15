@@ -5,7 +5,7 @@ categories:
 - Musings
 tags:
 - bionlp
-last_modified_at: 2020-10-04T20:59:27-05:00
+last_modified_at: 2020-10-15T14:59:27-05:00
 ---
 
 
@@ -17,9 +17,9 @@ The only difference between the models is:
 1. Larger model has a larger vocabulary than small model
 2. Larger model has word vectors
 
-As far as I know word vectors are only used for similarity operations. Hashed embeddings from the vocabulary are used to initialise the vectors using a CNN to train them for NER.
+Previously I thought spacy NER does not use word vectors but when they are available they do use them
 
-So then I was wondering why would a larger vocabulary improve performance?
+I was wondering how spacy vocabulary size could impact NER performance:
 
 My naive answer would be that the more words are out of vocabulary the harder it is to learn an entity. So if you have a cancer type classification task and all anatomy parts are out of your vocabulary it will be harder to distinguish them for the model. Why do you think vocabulary size impacts NER performance?
 
