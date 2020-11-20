@@ -1,0 +1,1 @@
+20/11/2020 Distinguish one way and two way doors in decision making. You can't go back through a one way door. Don't worry that much about decisions that can be reversed. Source: https://www.inc.com/jeff-haden/amazon-founder-jeff-bezos-this-is-how-successful-people-make-such-smart-decisions.html
