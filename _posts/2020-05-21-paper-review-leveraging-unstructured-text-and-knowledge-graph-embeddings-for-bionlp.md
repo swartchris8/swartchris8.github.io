@@ -2,7 +2,7 @@
 layout: post
 title: "Paper Review: Leveraging unstructured text and knowledge graph embeddings for BioNLP"
 categories:
-  - Paper Review
+  - Posts
 tags:
   - knowledge_graph
   - bionlp

@@ -2,7 +2,7 @@
 layout: post
 title: "Future of Data-Centric AI - Event Summary"
 categories:
-  - Paper Review
+  - Posts
 tags:
   - nlp
 last_modified_at: 2021-09-28T23:55:00-00:00
