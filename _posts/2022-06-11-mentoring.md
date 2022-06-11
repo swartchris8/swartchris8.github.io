@@ -13,6 +13,8 @@ As we are moving ahead with our PLG motion I have found it very important to rea
 
 There are 2 resources I would really recommend for reaching out to mentors who can help in a wide range of topics:
 [Mentoring Club](https://www.mentoring-club.com/the-mentors/search-mentor)
+
+
 The Mentoring Club is a great community of mentors volunteering their time to coach and mentor people. Product and data experts from there have helped me sanity check ideas and fill in gaps.
 
 
