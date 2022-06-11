@@ -22,16 +22,16 @@ At first it's good to start with a short intro message which you can send on cal
 For the intro I recommend:
 
 
-*<OBJECTIVE>*
+*\<OBJECTIVE\>*
 I came across your profile on mentor club and would love to learn more about how to effectively apply A/B testing from you.
 
 
-*<INTRO>*
+*\<INTRO\>*
 Bit of background about me:
 I cofounded Comtura to breakdown sales data silos and help people sell better conencting transcriptions to the CRM. I am in charge of all things data and machine learning at Comtura, I have 5 years experience in NLP.
 
 
-*<NEXT STEP>*
+*\<NEXT STEP\>*
 If you had any time next week to chat that would be much appreciated.
 
 
