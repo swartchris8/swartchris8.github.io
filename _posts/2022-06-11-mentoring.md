@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Musing about why spacy vocabulary size improves NER"
+title: "Grow with the help of mentors"
 categories:
 - Posts
 tags:
