@@ -1,5 +1,8 @@
 <div id="sidebar">
   <header>
+    {% block content %}
+      <img src="{{ static('assets/profile.jpeg') }}" alt="image alt text" />
+    {% endblock %}
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}
