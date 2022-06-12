@@ -1,4 +1,4 @@
 ---
 layout: category
-title: No spam, just my newsletter
+title: Sign up to Newsletter
 ---
