@@ -40,4 +40,6 @@ If you had any time next week to chat that would be much appreciated.
 
 
 The great thing about mentor's club is you get to see people's expertise and interests right away so you can find great matches fast.
-The mentors  subreddit is another useful resource, for the last 6 month an ex technical manager from Black Swan data has been helping me understand where are my management gaps from there. Though the quality is a lot more hit and miss [Mentor subreddit](https://www.reddit.com/r/mentors/)
+
+
+The [Mentor subreddit](https://www.reddit.com/r/mentors/) is another useful resource, for the last 6 month an ex-Blak Swan Data technical manager has been helping me understand where are my management gaps from there. Though the quality is a lot more hit and miss.
