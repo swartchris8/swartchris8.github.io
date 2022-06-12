@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Chris Swart
 tagline:          ML & Startups
-description:      'Natural Language Processing'
+description:      'ML & Startups'
 url:              https://swartchris8.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
