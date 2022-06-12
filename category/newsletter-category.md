@@ -1,6 +1,4 @@
 ---
 layout: category
-title: Newsletter
+title: No spam, just my newsletter
 ---
-
-No spam, just my blog posts.
