@@ -8,14 +8,17 @@ tags:
 last_modified_at: 2022-06-11T14:59:27-05:00
 ---
 
-As we are moving ahead with our PLG motion I have found it very important to reach out to external mentors and peers to fill in gaps in my analytics and management knowledge. 
+This post will help you reach out to potential mentors.
+
+As we move ahead with our PLG motion with [Comtura](https://comtura.ai), my company,  I need to fill in gaps in my analytics and management knowledge. Mentors have helped me immensely in continuing to learn and improve. 
 
 
 There are 2 resources I would really recommend for reaching out to mentors who can help in a wide range of topics:
-[Mentoring Club](https://www.mentoring-club.com/the-mentors/search-mentor)
+1. [Mentoring Club](https://www.mentoring-club.com/the-mentors/search-mentor) 
+2. [Mentor subreddit](https://www.reddit.com/r/mentors/)
 
 
-The Mentoring Club is a great community of mentors volunteering their time to coach and mentor people. Product and data experts from there have helped me sanity check ideas and fill in gaps.
+The [Mentoring Club](https://www.mentoring-club.com/the-mentors/search-mentor) is a great community of mentors volunteering their time to coach and mentor people. Product and data experts from there have helped me sanity check ideas and fill in gaps.
 
 
 At first it's good to start with a short intro message which you can send on calendly if they are available there otherwise just connecting with people on linkedin and messaging them can work.
