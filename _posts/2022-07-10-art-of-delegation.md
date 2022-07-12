@@ -24,7 +24,7 @@ I work on most weekends but the number of focused hours are limited in a week. Y
 
 -- Say no --
 
-I don't like saying no and blocking a problem. Coming from a technical background requests can be extremely difficult or technically impossible in these cases I think managing expectations and giving alternative options is a key. I would also rather put less impactful ideas on the backlog then just rejecting them. I prefer if Santi and Hector my cofounders can trust me with solutions to challengtes rather than rejecting ideas.
+I don't like saying no and blocking a problem. Coming from a technical background requests can be extremely difficult or technically impossible in these cases I think managing expectations and giving alternative options is a key. I would also rather put less impactful ideas on the backlog then just rejecting them. I prefer if Santi and Hector, my cofounders, can trust me with solutions to challenges rather than rejecting ideas.
 
 -- Reprioritise my responsibilities --
 
