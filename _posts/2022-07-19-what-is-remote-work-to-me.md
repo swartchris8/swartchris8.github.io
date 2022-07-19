@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What does remote work mean to me"
+title: "What does remote work mean to me?"
 categories:
 - Posts
 tags:
