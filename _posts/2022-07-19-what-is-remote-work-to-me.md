@@ -9,7 +9,7 @@ tags:
 last_modified_at: 2022-07-19T14:59:27-05:00
 ---
 
-![Hanging out in Madrid](/assets/madrid.jpeg)
+![Hanging out in Madrid](/assets/madrid.png)
 
 Last week Santi and I spent 5 days in Madrid to finally meet Eduardo, a wonderful software engineer from Venezuela. My favourite part of the trip was trying arepa, a corn pancake stuffed with shredded cheese, fried plantains, black beans and braised beef. All the stories about what arepas meant to Eduardo made them taste better. Sharing food, stories, and different perspectives enriches our work together. I am thankful for being able to work remotely together with wonderful people like Eduardo.
 
