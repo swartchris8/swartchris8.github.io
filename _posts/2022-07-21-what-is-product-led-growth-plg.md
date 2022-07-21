@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What does remote work mean to me?"
+title: "What's Product Led Growth (PLG)?"
 categories:
 - Posts
 tags:
