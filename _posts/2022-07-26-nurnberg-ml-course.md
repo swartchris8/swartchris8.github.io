@@ -6,7 +6,7 @@ categories:
 tags:
 - ml
 - nlp
-last_modified_at: 2022-07-26T21:59:27-05:00
+last_modified_at: 2022-07-26T22:59:27-05:00
 ---
 
 Practical Deep Learning for Coders -- Nürnberg edition
