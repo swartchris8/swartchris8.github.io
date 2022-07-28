@@ -12,8 +12,8 @@ last_modified_at: 2022-07-26T22:59:27-05:00
 Practical Deep Learning for Coders -- Nürnberg edition
 
 - Location TBC
-- Start time 04/08/2022 19:00
-- Course fee EUR 50
+- Start time TBC
+- Course fee ~EUR 50 - maybe higher depending on room booking fees
 - Requires Python knowledge
 - 90 minutes a week -- 9 weeks -- weekly on Thursdays
 
