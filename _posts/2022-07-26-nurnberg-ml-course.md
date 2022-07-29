@@ -15,7 +15,7 @@ Practical Deep Learning for Coders -- Nürnberg edition
 - Start time TBC
 - Course fee ~EUR 50 - maybe higher depending on room booking fees
 - Requires Python knowledge
-- 90 minutes a week -- 9 weeks -- weekly on Thursdays
+- Time commitment -- 90 minutes a week -- 9 weeks
 
 
 This course will follow [Fastai's 2022 edition of Practical Deep Learning for Coders](https://course.fast.ai/). The course follows a top down project first approach to teaching and applying machine learning concepts. By the end of the course you will have your very own computer vision, natural language processing, or other project applied to an area of interest to you. 
