@@ -28,6 +28,8 @@ My [background in machine learning](https://www.linkedin.com/in/christiaan-swart
 
 I am grateful to [Coworking Nürnberg](https://coworking-nuernberg.de/) for allowing me to use their Meetup slots for lesson 1., 3., 5., 7. The Meetup slot lessons will be open to anyone who would like to sit in.
 
+To register at the course email me at my all lower case email of [First letter of First Name][Surname]@outlook.com or message me on [LinkedIn](https://www.linkedin.com/in/christiaan-swart-51a68967/)
+
 | Time              | Location                                         | Lesson                                          |
 |-------------------|--------------------------------------------------|-------------------------------------------------|
 | 29/09 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share) | 1. Getting started -- Intro to course structure |
