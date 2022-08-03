@@ -6,7 +6,7 @@ categories:
 tags:
   - nlp
   - ml
-last_modified_at: 2022-08-03T20:59:27-05:00
+last_modified_at: 2022-08-03T21:03:27-05:00
 ---
 
 Today I am sharing the key ideas from listening to SnorkelAI's Data Centric AI Panel Discussion: Exploring New Frontiers of Weak Supervision with:
