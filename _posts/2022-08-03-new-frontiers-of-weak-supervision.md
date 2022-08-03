@@ -48,7 +48,7 @@ Very exciting as it seems to complement weak supervision very well. Interesting 
 
 Prompting gives another language to construct tasks. Foundation models have lots of domain knowledge which can be extracted by prompting, weak supervision comes on top of this to tweak the output and fix potential mistakes.
 
-Natural language prompting can be shockingly effective in my experience with a customer recently.
+Natural language prompting can be shockingly effective in Poms' experience with a customer recently.
 
 Exciting about prompting functions is the domain expert does not need to work with primitives and allows the domain experts to use way more intuitive text queries.
 
