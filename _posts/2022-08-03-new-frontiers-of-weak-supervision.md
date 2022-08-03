@@ -6,14 +6,14 @@ categories:
 tags:
   - nlp
   - ml
-last_modified_at: 2022-08-03T21:03:27-05:00
+last_modified_at: 2022-08-03T21:12:27-05:00
 ---
 
 Today I am sharing the key ideas from listening to SnorkelAI's Data Centric AI Panel Discussion: Exploring New Frontiers of Weak Supervision with:
 - Frederic Sala, Assistant Professor at University of Wisconsin, Research Scientist at Snorkel
 - Stephen Bach, Assistant Professor at Brown University, Research Scientist at Snorkel
-- Jason Fries CS, Research Scientist at Stanford,  Biomedical, Research Electronic Health Records
-- Fait Poms, Senior applied research scientist Snorkel
+- Jason Fries Computer Science Research Scientist at Stanford,  Biomedical, Research Electronic Health Records
+- Fait Poms, Senior Applied Research Scientist Snorkel
 
 **What is weak supervision?**
 Aggregate labels and rules with much lower effort than explicit labelling
