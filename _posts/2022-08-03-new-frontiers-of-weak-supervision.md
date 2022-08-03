@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paper Review: Leveraging unstructured text and knowledge graph embeddings for BioNLP"
+title: "Data Centric AI: New Frontiers of Weak Supervision"
 categories:
   - Posts
 tags:
@@ -9,9 +9,9 @@ tags:
 last_modified_at: 2022-08-03T20:42:27-05:00
 ---
 
-Today I am sharing the key ideas from the Panel Discussion: Exploring New Frontiers of Weak Supervision with:
+Today I am sharing the key ideas from listening to SnorkelAI's Data Centric AI Panel Discussion: Exploring New Frontiers of Weak Supervision with:
 - Frederic Sala, Assistant Professor at University of Wisconsin, Research Scientist at Snorkel
-- Stephen Bach, Assistant Professor at Brown, Research Scientist at Snorkel
+- Stephen Bach, Assistant Professor at Brown University, Research Scientist at Snorkel
 - Jason Fries CS, Research Scientist at Stanford,  Biomedical, Research Electronic Health Records
 - Fait Poms, Senior applied research scientist Snorkel
 
