@@ -39,7 +39,7 @@ initial annotations with stakeholders can give
 quick feedback around conceptual errors and reduce the risk of overhyping
 the project.
 
-![Overyhyped ML project is derailed due to lack of expectation management](https://imgflip.com/i/6qser4 'Careful with the hype train!')
+![Figure 3 from the paper](/assets/ml_hype_train_wreck.jpg)
 
 ### Map the data with stakeholders for buy in
 
@@ -122,5 +122,3 @@ I recommend [snorkel](https://www.snorkel.org/) to get started with weak supervi
 Paid:
 [Prodigy](https://prodi.gy/) is a great annotation tool with active learning support
 from the creators of spacy
-
-
