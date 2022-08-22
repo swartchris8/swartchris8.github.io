@@ -4,8 +4,8 @@ title: "Data Centric AI: New Frontiers of Weak Supervision"
 categories:
   - Posts
 tags:
-  - nlp
-  - ml
+  - NLP
+  - ML
 last_modified_at: 2022-08-03T21:12:27-05:00
 ---
 

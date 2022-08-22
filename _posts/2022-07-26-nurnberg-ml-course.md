@@ -4,8 +4,8 @@ title: "Practical Deep Learning for Coders -- Nürnberg edition"
 categories:
 - Posts
 tags:
-- ml
-- nlp
+- ML
+- NLP
 last_modified_at: 2022-08-02T20:09:27-05:00
 ---
 

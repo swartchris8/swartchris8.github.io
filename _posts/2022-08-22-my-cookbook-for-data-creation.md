@@ -4,8 +4,8 @@ title: "My cookbook for data creation"
 categories:
   - Posts
 tags:
-  - nlp
-  - ml
+  - NLP
+  - ML
 last_modified_at: 2022-08-22T22:38:27-05:00
 ---
 
