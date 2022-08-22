@@ -19,5 +19,7 @@ Chris Swart has 6 years experience delivering Natural Language\
  he leads the machine learning team.
  
 My personal blog: https://useml.net/
+
 LI: https://www.linkedin.com/in/christiaan-swart-51a68967/
+
 Twitter: https://twitter.com/swartchris8/
