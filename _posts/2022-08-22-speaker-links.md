@@ -2,7 +2,6 @@
 layout: post
 title: "Speaker Links"
 categories:
-  - Posts
 tags:
   - career
 last_modified_at: 2022-08-22T20:00:27-05:00
