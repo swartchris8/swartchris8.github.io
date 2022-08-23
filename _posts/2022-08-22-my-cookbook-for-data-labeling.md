@@ -13,7 +13,7 @@ Last Friday I had the pleasure of [speaking with Alexey Georgev on DataTalks.clu
 I am sharing my data creation process here,
 so you don't need to watch me talk for an hour.
 
-My cookbook for data creation
+My cookbook for data labeling
 
 1. define success in business terms
 2. map the data with stakeholders for buy in
@@ -29,7 +29,7 @@ Considerations around dataset creation:
 
 Tool recommendations
 
-## My cookbook for data creation
+## My cookbook for data labeling
 
 ### Defining success in business terms
 
