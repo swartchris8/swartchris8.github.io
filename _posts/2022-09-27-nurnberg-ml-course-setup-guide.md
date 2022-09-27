@@ -10,9 +10,9 @@ tags:
 last_modified_at: 2022-09-27T22:14:27-05:00
 ---
 
-The course will be delivered using fastai’s Practical deep learning for coders jupyter notebooks and book.
+The course will be delivered using fastai’s Practical deep learning for coders jupyter notebooks and [book](https://course.fast.ai/Resources/book.html).
 
-To access the jupyter notebook we will use Paperspace Gradient. We also will do some parts of the course on your own laptop. (If you don’t have a Paperspace account yet, sign up with this link to get $10 credit – and I get a credit too.)
+To access the jupyter notebook we will use [Paperspace Gradient](https://www.paperspace.com/gradient/notebooks). We also will do some parts of the course on your own laptop. (If you don’t have a Paperspace account yet, sign up with [this link](https://console.paperspace.com/signup?R=32ZXA7C) to get $10 credit – and I get a credit too.)
 
 ![Video of setting up your course environment with fastai](/assets/gradiosetup.mp4)
 
