@@ -7,7 +7,7 @@ tags:
 - ML
 - NLP
 - ml-course
-last_modified_at: 2022-09-27T22:14:27-05:00
+last_modified_at: 2022-09-27T22:33:27-05:00
 ---
 
 The course will be delivered using fastai’s Practical deep learning for coders jupyter notebooks and [book](https://course.fast.ai/Resources/book.html).
