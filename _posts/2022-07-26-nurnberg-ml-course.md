@@ -6,6 +6,7 @@ categories:
 tags:
 - ML
 - NLP
+- ml-course
 last_modified_at: 2022-08-02T20:09:27-05:00
 ---
 
@@ -14,6 +15,7 @@ Practical Deep Learning for Coders -- Nürnberg + Zoom edition
 - Course fee €100
 - Requires Python knowledge
 - Time commitment -- 90 minutes a week -- 8 weeks
+
 
 
 This course will follow [Fastai's 2022 edition of Practical Deep Learning for Coders](https://course.fast.ai/). The course follows a top down project first approach to teaching and applying machine learning concepts. By the end of the course you will have your very own computer vision, natural language processing, or other project applied to an area of interest to you. 
@@ -30,13 +32,13 @@ I am grateful to [Coworking Nürnberg](https://coworking-nuernberg.de/) for allo
 
 To register at the course email me at my all lower case email of [First letter of First Name][Surname]@outlook.com or message me on [LinkedIn](https://www.linkedin.com/in/christiaan-swart-51a68967/)
 
-| Time              | Location                                                 | Lesson                                          |
-|-------------------|----------------------------------------------------------|-------------------------------------------------|
-| 29/09 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)         | 1. Getting started -- Intro to course structure |
-| 06/10 19:00-21:00 | [Online on Zoom](https://us02web.zoom.us/j/81696906237)  | 2. Deploy your own model                        |
-| 13/10 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)         | 3. Neural net foundations                       |
-| 20/10 19:00-21:00 | [Online on Zoom](https://us02web.zoom.us/j/81696906237)  | 4. Natural Language Processing (NLP)            |
-| 27/10 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)         | 5. From-scratch model                           |
-| 03/11 19:00-21:00 | [Online on Zoom](https://us02web.zoom.us/j/81696906237)  | 6. Random forests                               |
-| 10/11 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)         | 7. Collaborative filtering                      |
-| 17/11 19:00-21:00 | [CodeCamp:N](https://goo.gl/maps/B5n4pWYeZgqqwUYWA)      | 8. Convolutions                                 |
+| Time              | Location                                                 | Lesson                                                                                         |
+|-------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| 29/09 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)         | 1. [Getting started -- Intro to course structure](https://course.fast.ai/Lessons/lesson1.html) |
+| 06/10 19:00-21:00 | [Online on Zoom](https://us02web.zoom.us/j/81696906237)  | 2. [Deploy your own model](https://course.fast.ai/Lessons/lesson2.html)                        |
+| 13/10 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)         | 3. [Neural net foundations](https://course.fast.ai/Lessons/lesson3.html)                       |
+| 20/10 19:00-21:00 | [Online on Zoom](https://us02web.zoom.us/j/81696906237)  | 4. [Natural Language Processing (NLP)](https://course.fast.ai/Lessons/lesson4.html)            |
+| 27/10 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)         | 5. [From-scratch model](https://course.fast.ai/Lessons/lesson5.html)                           |
+| 03/11 19:00-21:00 | [Online on Zoom](https://us02web.zoom.us/j/81696906237)  | 6. [Random forests](https://course.fast.ai/Lessons/lesson6.html)                               |
+| 10/11 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)         | 7. [Collaborative filtering](https://course.fast.ai/Lessons/lesson7.html)                      |
+| 17/11 19:00-21:00 | [CodeCamp:N](https://goo.gl/maps/B5n4pWYeZgqqwUYWA)      | 8. [Convolutions](https://course.fast.ai/Lessons/lesson8.html)                                 |
