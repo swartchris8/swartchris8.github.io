@@ -7,14 +7,14 @@ tags:
 - ML
 - NLP
 - ml-course
-last_modified_at: 2022-09-27T22:09:27-05:00
+last_modified_at: 2022-09-27T22:14:27-05:00
 ---
 
 The course will be delivered using fastai’s Practical deep learning for coders jupyter notebooks and book.
 
 To access the jupyter notebook we will use Paperspace Gradient. We also will do some parts of the course on your own laptop. (If you don’t have a Paperspace account yet, sign up with this link to get $10 credit – and I get a credit too.)
 
-![Video of setting up your course environment with fastai](/assets/bert_mk_model_overview.png)
+![Video of setting up your course environment with fastai](/assets/gradiosetup.mp4)
 
 During the lessons we will work through different jupyter notebooks. The notebooks are an interactive coding environment that allow you to tweak and apply what you are learning.
 
