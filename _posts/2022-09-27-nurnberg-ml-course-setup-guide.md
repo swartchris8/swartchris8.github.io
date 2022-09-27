@@ -22,5 +22,5 @@ To make the most of this course it’s very important to tweak the notebooks and
 
 For community feedback and support fastai has a course forum where you can search for your questions and if you can’t find them ask for community help.
 
-Don’t worry if this is overwhelming, during the first lesson we will go into more details about the course structure outcomes and jupyter environment.
+Don’t worry if this is overwhelming, during the first lesson we will go into more details about the course structure, outcomes, and jupyter environment.
 
