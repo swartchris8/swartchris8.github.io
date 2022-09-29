@@ -35,7 +35,7 @@ I have spent 6 years working in Natural Language Processing (NLP) across pharma,
 I am grateful to [Coworking Nürnberg](https://coworking-nuernberg.de/) for allowing me to use their Meetup slots for lesson 1., 2., 3., 5. Shout out to [Codecamp:N](https://www.codecamp-n.com/) for allowing me to use their event space for the 4th lesson!
 
 ### Course registration
-Registration is free of charge. Please email me your name to register. To email me [First letter of First Name][Surname]@outlook.com or message me on [LinkedIn](https://www.linkedin.com/in/christiaan-swart-51a68967/)
+Registration is free of charge. Please register [here](https://allevents.in/n%C3%BCrnberg/n%C3%BCrnberg-machine-learning-course/80002533942311) or email me to register. To email me [First letter of First Name][Surname]@outlook.com or message me on [LinkedIn](https://www.linkedin.com/in/christiaan-swart-51a68967/)
 
 ### Course setup guide
 To setup your Gradio environment for the course follow [this guide](https://useml.net/posts/2022/09/27/nurnberg-ml-course-setup-guide.html).
