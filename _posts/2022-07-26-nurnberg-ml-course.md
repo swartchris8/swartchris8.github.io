@@ -10,7 +10,7 @@ tags:
 last_modified_at: 2022-09-29T12:09:27-05:00
 ---
 
-Practical Deep Learning for Coders -- Nürnberg + Zoom | Part 1
+Practical Deep Learning for Coders -- Nürnberg + Zoom -- Part 1
 
 - Course is free and open to anyone!
 - Requires Python knowledge
