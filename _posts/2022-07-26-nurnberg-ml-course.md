@@ -7,7 +7,7 @@ tags:
 - ML
 - NLP
 - ml-course
-last_modified_at: 2022-09-27T20:09:27-05:00
+last_modified_at: 2022-09-29T12:09:27-05:00
 ---
 
 Practical Deep Learning for Coders -- Nürnberg + Zoom edition
@@ -40,13 +40,14 @@ To register at the course email me at my all lower case email of [First letter o
 ### Course setup guide
 To setup your Gradio environment for the course follow [this guide](https://useml.net/posts/2022/09/27/nurnberg-ml-course-setup-guide.html).
 
-| Time              | Location                                                 | Lesson                                                                                         |
-|-------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| 29/09 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)         | 1. [Getting started -- Intro to course structure](https://course.fast.ai/Lessons/lesson1.html) |
-| 06/10 19:00-21:00 | [Online on Zoom](https://us02web.zoom.us/j/81696906237)  | 2. [Deploy your own model](https://course.fast.ai/Lessons/lesson2.html)                        |
-| 13/10 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)         | 3. [Neural net foundations](https://course.fast.ai/Lessons/lesson3.html)                       |
-| 20/10 19:00-21:00 | [Online on Zoom](https://us02web.zoom.us/j/81696906237)  | 4. [Natural Language Processing (NLP)](https://course.fast.ai/Lessons/lesson4.html)            |
-| 27/10 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)         | 5. [From-scratch model](https://course.fast.ai/Lessons/lesson5.html)                           |
-| 03/11 19:00-21:00 | [Online on Zoom](https://us02web.zoom.us/j/81696906237)  | 6. [Random forests](https://course.fast.ai/Lessons/lesson6.html)                               |
-| 10/11 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)         | 7. [Collaborative filtering](https://course.fast.ai/Lessons/lesson7.html)                      |
-| 17/11 19:00-21:00 | [CodeCamp:N](https://goo.gl/maps/B5n4pWYeZgqqwUYWA)      | 8. [Convolutions](https://course.fast.ai/Lessons/lesson8.html)                                 |
+| Time              | Location                                                | Lesson                                                                                         | Slides                                                                                                                  |
+|-------------------|---------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| 13/10 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)        | 1. [Getting started -- Intro to course structure](https://course.fast.ai/Lessons/lesson1.html) | [Lesson 1 slides](https://docs.google.com/presentation/d/1N_HMz-Ub-VESM5jNz2oxnDMJDF_Q8-IqnPN8FytoR5Q/edit?usp=sharing) |
+| 20/10 19:00-21:00 | [Online on Zoom](https://us02web.zoom.us/j/81696906237) | 2. [Deploy your own model](https://course.fast.ai/Lessons/lesson2.html)                        |                                                                                                                         |
+| 27/10 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)        | 3. [Neural net foundations](https://course.fast.ai/Lessons/lesson3.html)                       |                                                                                                                         |
+| 03/11 19:00-21:00 | [Online on Zoom](https://us02web.zoom.us/j/81696906237) | 4. [Natural Language Processing (NLP)](https://course.fast.ai/Lessons/lesson4.html)            |                                                                                                                         |
+| 10/11 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)        | 5. [From-scratch model](https://course.fast.ai/Lessons/lesson5.html)                           |                                                                                                                         |
+| 17/11 19:00-21:00 | [CodeCamp:N](https://goo.gl/maps/B5n4pWYeZgqqwUYWA)     | 6. [Random forests](https://course.fast.ai/Lessons/lesson6.html)                               |                                                                                                                         |
+| 24/11 19:00-21:00 | [Coworking Nürnberg](https://g.page/cwnue?share)        | 7. [Collaborative filtering](https://course.fast.ai/Lessons/lesson7.html)                      |                                                                                                                         |
+| 01/12 19:00-21:00 | [Online on Zoom](https://us02web.zoom.us/j/81696906237) | 8. [Convolutions](https://course.fast.ai/Lessons/lesson8.html)                                 |                                                                                                                         |
+
