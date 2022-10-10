@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Crunch Conf -- Weak Supervision Workshop"
+title: "Crunch Conference -- Weak Supervision Workshop"
 categories:
   - Posts
 tags:
   - NLP
-last_modified_at: 2022-10-05T10:55:00-00:00
+last_modified_at: 2022-10-05T11:55:00-00:00
 ---
 
 I had the pleasure of running a workshop on Weak Supervision at Crunch Conference in Budapest on 5/10/2022. Let me share a summary of the workshop here:
