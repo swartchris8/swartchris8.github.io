@@ -40,7 +40,7 @@ This labelling function extracts any digits that are preceded by a currency.
 
 ![Money detector](/assets/tall_giraffe_money.png)
 
-`skweak` allows you to combine multiple labelling functions using `spacy` attributes or other methods of choice.
+`skweak` allows you to combine multiple labelling functions using `spacy` attributes or other methods.
 
 Using labelling functions has a number of advantages:
 1. 💪 larger coverage, a single labelling function can cover many samples
