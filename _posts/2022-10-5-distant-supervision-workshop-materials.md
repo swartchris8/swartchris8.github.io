@@ -5,19 +5,21 @@ categories:
   - Posts
 tags:
   - NLP
-last_modified_at: 2022-10-05T11:55:00-00:00
+last_modified_at: 2022-10-05T16:55:00-00:00
 ---
 
 I had the pleasure of running a workshop on Weak Supervision at Crunch Conference in Budapest on 5/10/2022. Let me share a summary of the workshop here:
 
 With simple and efficient out-of-the-box machine learning APIs finetuning and deploying machine learning models has never been easier.
 For many companies the larger challenge is understanding the goal posts of machine learning projects and the lack of labelled data.
-Weak supervision can help with labelling data more efficiently or finetune your models on noisy labelled data.
+Weak supervision can help:
+- labelling data more efficiently 
+- finetuning your models on noisy labelled data.
 
 ![Weak supervision](/assets/weak_supervision_slide.png)
 
-The workshop used `skweak` a `spacy` based weak supervision library to demonstarte how to use labelling functions to generate noisy labelled data.
-`skweak` uses labelling functions to generate noisy labels for example:
+The workshop used `skweak` a `spacy` based weak supervision library to demonstrate how to use labelling functions to generate noisy labelled data.
+Here's an example `skweak` labelling functions:
 
 ```python
 from skweak.base import SpanAggregator
@@ -34,7 +36,7 @@ class MoneyDetector(SpanAggregator):
 money_detector = MoneyDetector()
 ```
 
-This labelling function extracts any digits that are preceeded by a currency.
+This labelling function extracts any digits that are preceded by a currency.
 
 ![Money detector](/assets/tall_giraffe_money.png)
 
@@ -43,7 +45,7 @@ This labelling function extracts any digits that are preceeded by a currency.
 Using labelling functions has a number of advantages:
 1. 💪 larger coverage, a single labelling function can cover many samples
 2. 🤓 involving experts, domain expert annotation is expensive, domain expert labelling functions are more economical due to coverage
-3. 🌬️ adopting to changing domains, labelling functions and data assets can be adapated to changing domains
+3. 🌬️ adopting to changing domains, labelling functions and data assets can be adapted to changing domains
 
 [Workshop Slides](https://docs.google.com/presentation/d/1mTF9JvwBwVj27e9pKP7sQ7gOpb343YaeGr0Y0G7A9i0/edit?usp=sharing)
 
