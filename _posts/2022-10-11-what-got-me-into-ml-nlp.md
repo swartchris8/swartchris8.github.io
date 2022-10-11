@@ -6,7 +6,7 @@ categories:
 tags:
 - ML
 - NLP
-last_modified_at: 2022-10-11T22:45:30-05:00
+last_modified_at: 2022-10-11T23:21:30-05:00
 ---
 
 It all started with the question: **how can computers understand human language?**
@@ -18,4 +18,4 @@ In practice, I have applied this work mainly to systems to process different typ
 
 I will be posting a weekly series of posts answering the question of **how do computers understand natural language?** Sign up to my newsletter to stay tuned.
 
-What got you into machine learning? What are you trying to achieve with it? Would you be interested in learning more about how do computers understand language? Would love to hear your thoughts on HN. 
+What got you into machine learning? What are you trying to achieve with it? Would you be interested in learning more about how do computers understand language? [Leave a comment with your thoughts on HN](https://news.ycombinator.com/item?id=33169383) 
