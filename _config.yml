@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Chris Swart
+title:            Christiaan Swart
 tagline:          ML & Startups
 description:      'ML & Startups'
 url:              https://swartchris8.github.io
