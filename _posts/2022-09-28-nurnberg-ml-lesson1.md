@@ -7,7 +7,7 @@ tags:
 - ML
 - NLP
 - ml-course
-last_modified_at: 2022-10-14T22:36:30-05:00
+last_modified_at: 2022-10-24T22:36:30-05:00
 ---
 
 In the first lesson we went through a bird or not a bird classifier, course overview, and walked through some of the features of the jupyter notebooks.
@@ -20,10 +20,10 @@ Lesson 1 video recordings:
 
 **Homework: tweak the bird or not bird classifier to create your own project or take inspiration from chapter 1 of the book which is available on gradio. You can start from the pet classifier in the book the text before that is not super useful.**
 
-To setup Paperspace gradio notebook environment: https://useml.net/posts/2022/09/27/nurnberg-ml-course-setup-guide.html
+[To setup Paperspace gradio notebook environment](https://useml.net/posts/2022/09/27/nurnberg-ml-course-setup-guide.html)
 
-If you would like to understand how fastai works their documentation is excellent: https://docs.fast.ai/
+The [fastai documentation](https://docs.fast.ai/) is an excellent place to start to see how different parts of fastai works 
 
-Bird or not bird Kaggle notebook download the code from kaggle and upload it to paperspace to create your own model https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data/
+Download the code from [Bird or not bird Kaggle notebook](https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data/) and upload it to paperspace to create your own model 
 
 **If you have limited time please focus on tweaking the model for your own application.**
