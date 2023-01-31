@@ -14,7 +14,7 @@ I enjoy public speaking about machine learning and have spoken at:
 
 Outside of work I enjoy improv theatre, swimming, and cooking.
 
- ![My CV is available here](/assets/chris_swart_cv.pdf)
+ [My CV is available here](/assets/chris_swart_cv.pdf)
 
 ### If you like what you read about here
 
