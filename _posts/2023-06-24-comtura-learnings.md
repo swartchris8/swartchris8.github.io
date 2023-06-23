@@ -5,10 +5,10 @@ categories:
 - Posts
 tags:
 - startup
-last_modified_at: 2023-06-24T23:21:30-05:00
+last_modified_at: 2023-06-24T23:25:30-05:00
 ---
 
-Over the last 2 years, I had the pleasure to work with Hector, Santi, and other awesome colleagues on automating CRM data entry based on call transcripts.
+Over the last 2 years, I had the pleasure to work with Hector, Santi, and other awesome colleagues on Comtura, automating CRM data entry based on call transcripts.
 
 My biggest learnings where:
 Networking and good story are essential to raise investment
@@ -23,4 +23,4 @@ Cold calling in a remote environment alone is soul crushing. It is a terrifying 
 
 When you cold call it’s important to call the right person. Initially our prospects were sourced from a data provider, often the data was stale or incorrect. Later custom, verified prospects were a huge improvement. Experimenting with different ways of getting custom, verified prospects is essential.
 
-If you want to start a business think about how you will reach your prospects and pick up the phone!
+If you want to start a business: think about how you will reach your prospects and pick up the phone!
