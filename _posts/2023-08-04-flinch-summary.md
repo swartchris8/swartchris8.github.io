@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Flinching from danger hold you back from success"
+title: "Flinching from danger holds you back from success"
 categories:
 - Posts
 tags:
 - productivity
-last_modified_at: 2023-08-04T13:52:30-05:00
+last_modified_at: 2023-08-04T13:53:30-05:00
 ---
 
-### Flinching from danger hold you back from success
+### Flinching from danger holds you back from success
 
 Book summary of The Flinch by Julien Smith
 
