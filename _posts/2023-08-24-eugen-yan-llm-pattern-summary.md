@@ -4,7 +4,8 @@ title: "Summary of Eugene Yan's LLM patterns"
 categories:
   - Posts
 tags:
-  - productivity
+  - ML
+  - NLP
 last_modified_at: 2023-08-24T13:53:30-05:00
 ---
 
