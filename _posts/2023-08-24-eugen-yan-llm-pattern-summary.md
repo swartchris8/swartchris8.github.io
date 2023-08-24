@@ -7,9 +7,17 @@ tags:
   - ML
   - NLP
 last_modified_at: 2023-08-24T13:53:30-05:00
+mermaid: true
 ---
 
 ### Summary of Eugene Yan's LLM patterns
+
+<div class="mermaid">
+graph LR
+    A --- B
+    B-->C[Happy]
+    B-->D(Sad);
+</div>
 
 - [ ] Patterns for Building LLM based Systems and products
   - [x] Evals
