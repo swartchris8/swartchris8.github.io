@@ -24,14 +24,10 @@ paginate: 5
 # paginate_path:    '/page:num'
 # Or '/blog/page:num' if you want to move your index pages
 
-mermaid:
-  src: "https://unpkg.com/mermaid@8.9.3/dist/mermaid.min.js"
-
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-mermaid
 
 # Sidebar link settings
 sidebar_home_link: true
