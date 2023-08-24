@@ -6,8 +6,7 @@ categories:
 tags:
   - ML
   - NLP
-last_modified_at: 2023-08-24T16:53:30-05:00
-mermaid: true
+last_modified_at: 2023-08-24T16:54:30-05:00
 ---
 
 ### Summary of Eugene Yan's LLM patterns
