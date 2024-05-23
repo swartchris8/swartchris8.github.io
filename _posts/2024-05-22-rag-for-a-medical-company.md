@@ -6,7 +6,7 @@ categories:
 tags:
   - ML
   - NLP
-last_modified_at: 2024-05-22T10:41:30-05:00
+last_modified_at: 2024-05-22T11:07:30+02:00
 ---
 
 This is my summary of the talk **RAG for a medical company: the technical and product challenges** by [Noe Achache](https://www.linkedin.com/in/noe-achache/) delivered at PyData Berlin 2024.
@@ -38,8 +38,7 @@ Assumptions:
 
 ### Solution
 
-Example of the content of interactions
-
+Here's an example of the doctor interacting with the system:
 <br>
 <br>
 
@@ -72,16 +71,16 @@ Example of the content of interactions
 
 ❌ Initial approach was just use ChatGPT, this failed due to no source.
 
-Medical advice is high trust.
+Medical advice is high trust, sources are a must!
 
 ### Evaluating the solution
 
-🩺 User interviews dug it into what searches doctors have done in the last week?
+🩺 User interviews dug into what searches doctors have done in the last week?
 
-Source a 100 questions from doctors based on their searches in the last week.
-This 100 question dataset is the core evaluation set.
+They then sourced a 100 questions from doctors based on their searches in the last week.
+This 100 question dataset was the core evaluation set.
 
-The initial approach, chainlit for UI with a default langchain RAG, performed poorly on the evaluation data set:
+The initial approach, chainlit for UI with a default langchain RAG with text splitter chunking texts into 8K character chunks with 100 character overlaps, performed poorly on the evaluation data set:
 
 👌 OK - answer accepted by doctor
 
@@ -93,7 +92,7 @@ The initial approach, chainlit for UI with a default langchain RAG, performed po
 
 ### Chunking challenges
 
-The approach of chunking 8K tokens is like using an axe to slice fruits into small pieces.
+The approach of chunking 8K tokens into one vector is like using an axe to slice fruits into small pieces.
 
 The pieces of fruit (vector embeddings) you get are too big and often mixed together which means it’s harder to find the fruit you are looking for (query vector).
 
