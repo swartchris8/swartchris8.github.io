@@ -6,7 +6,7 @@ categories:
 tags:
   - ML
   - NLP
-last_modified_at: 2024-05-22T10:40:30-05:00
+last_modified_at: 2024-05-22T10:41:30-05:00
 ---
 
 This is my summary of the talk **RAG for a medical company: the technical and product challenges** by [Noe Achache](https://www.linkedin.com/in/noe-achache/) delivered at PyData Berlin 2024.
@@ -17,7 +17,7 @@ In France during the average GP visit the patient spends 15 minutes with the doc
 
 Vidal is a renowned historical reference for medications, trusted by over 700,000 health professionals across France and Europe. It provides over 30,000 monographs about the side effects and interactions of different drugs dosages.
 
-**Product Discovery questions**
+### Product Discovery questions
 
 To build a valuable product for the doctors, look at the following questions:
 
