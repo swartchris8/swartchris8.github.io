@@ -6,7 +6,7 @@ categories:
 tags:
   - ML
   - NLP
-last_modified_at: 2024-05-22T10:21:30-05:00
+last_modified_at: 2024-05-22T10:23:30-05:00
 ---
 
 This is my summary of the talk RAG for a medical company: the technical and product challenges by [Noe Achache](https://www.linkedin.com/in/noe-achache/) delivered at PyData Berlin 2024.
@@ -70,6 +70,8 @@ Medical advice is high trust.
 
 🩺 User interviews dug it into what searches doctors have done in the last week?
 
+<br>
+
 Source a 100 questions from doctors based on their searches in the last week.
 
 This 100 question dataset is the core evaluation set.
@@ -99,17 +101,13 @@ This led to a substantial improvement in performance:
 Performance is still not good enough how to reduce the red slice of the pie?
 
 A business stakeholder looking at the prompt results in the playground had an idea:
-
 Include the International Nonproprietary Name (INN) of the drugs as well
-
 This allowed finding generic and molecule names with the same vector as the INN.
 
 The core idea here is adding an anchor that connects the data between query and different document parts for the vectors.
-
 Instead of using an API to link to the INN id, just use ChatGPT to generate it for quick prototyping.
 
 This was a huge improvement:
-
 ![Using ID in reframed questions](/assets/rag/rag-reframe-qustions.png)
 
 Finally tweaking the prompts a bit more led to no wrong answers:
@@ -131,6 +129,7 @@ This is the arch of the final solution:
 Chat interface implement with Chainlit for quick chatbot UI.
 
 Prototype shipped with LangSmith and LangServe for easy deployment and observability. We have very similar capabilities to the ones demoed in honeycomb.
+<br>
 💡 One thing missing from our honeycomb solution is with LangSmith they have a **1 click button to export a trace context to an interactive prompt playground**. This could be good to implement, for debugging and allowing more prompt collab.
 
 ### Improvement opportunities
