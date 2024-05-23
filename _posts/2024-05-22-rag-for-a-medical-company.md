@@ -6,7 +6,7 @@ categories:
 tags:
   - ML
   - NLP
-last_modified_at: 2024-05-22T10:34:30-05:00
+last_modified_at: 2024-05-22T10:36:30-05:00
 ---
 
 This is my summary of the talk RAG for a medical company: the technical and product challenges by [Noe Achache](https://www.linkedin.com/in/noe-achache/) delivered at PyData Berlin 2024.
@@ -42,6 +42,7 @@ Example of the content of interactions
 
 <br>
 <br>
+---
 
 1. Question: How long should I take 💊 Eliquis?
 2. Rephrase question: How long should I take Eliquis?
@@ -60,6 +61,8 @@ Example of the content of interactions
    “Eliquis is a common treatment for malaria.
 
    Eliquis 5 mg should be taken once an hour for 12 hours.”
+
+---
 
 <br>
 <br>
