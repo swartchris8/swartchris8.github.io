@@ -6,7 +6,7 @@ categories:
 tags:
   - ML
   - NLP
-last_modified_at: 2024-05-22T10:37:30-05:00
+last_modified_at: 2024-05-22T10:38:30-05:00
 ---
 
 This is my summary of the talk **RAG for a medical company: the technical and product challenges** by [Noe Achache](https://www.linkedin.com/in/noe-achache/) delivered at PyData Berlin 2024.
@@ -67,13 +67,15 @@ Example of the content of interactions
 <br>
 <br>
 
+### Initial approach
+
 ❌ Initial approach was just use ChatGPT, this failed due to no source.
 
 Medical advice is high trust.
 
 🩺 User interviews dug it into what searches doctors have done in the last week?
 
-<br>
+### Evaluating the solution
 
 Source a 100 questions from doctors based on their searches in the last week.
 This 100 question dataset is the core evaluation set.
