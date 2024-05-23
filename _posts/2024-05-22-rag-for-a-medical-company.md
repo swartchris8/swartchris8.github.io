@@ -6,7 +6,7 @@ categories:
 tags:
   - ML
   - NLP
-last_modified_at: 2024-05-22T10:23:30-05:00
+last_modified_at: 2024-05-22T10:34:30-05:00
 ---
 
 This is my summary of the talk RAG for a medical company: the technical and product challenges by [Noe Achache](https://www.linkedin.com/in/noe-achache/) delivered at PyData Berlin 2024.
@@ -73,10 +73,9 @@ Medical advice is high trust.
 <br>
 
 Source a 100 questions from doctors based on their searches in the last week.
-
 This 100 question dataset is the core evaluation set.
 
-The initial approach also performs very poor on the evaluation data set:
+The initial approach, chainlit for UI with a default langchain RAG, performed poorly on the evaluation data set:
 
 👌 OK - answer accepted by doctor
 
@@ -92,20 +91,22 @@ The approach of chunking 8K tokens is like using an axe to slice fruits into sma
 
 The pieces of fruit (vector embeddings) you get are too big and often mixed together which means it’s harder to find the fruit you are looking for (query vector).
 
-Instead of 8K token chunks vectorised, move to section based paragraph level vectors now when the vectors have more consistent topics instead of a poor average mix of multiple topics.
+The solution was moving to smaller chunk vectros. Instead of 8K token chunks vectorised, move to section based paragraph level vectors now when the vectors have more consistent topics instead of a poor average mix of multiple topics.
 
 This led to a substantial improvement in performance:
 
 ![Paragraph vector evaluation](/assets/rag/rag-smaller-vectors.png)
 
-Performance is still not good enough how to reduce the red slice of the pie?
+Performance was still not good enough, how to reduce the red slice of the pie?
+
+The chainlit chat interface has a prompt playground where users can tweak and rerun prompts.
 
 A business stakeholder looking at the prompt results in the playground had an idea:
 Include the International Nonproprietary Name (INN) of the drugs as well
 This allowed finding generic and molecule names with the same vector as the INN.
 
 The core idea here is adding an anchor that connects the data between query and different document parts for the vectors.
-Instead of using an API to link to the INN id, just use ChatGPT to generate it for quick prototyping.
+Instead of using an API to link to the INN id, they just used ChatGPT to generate it for quick prototyping.
 
 This was a huge improvement:
 ![Using ID in reframed questions](/assets/rag/rag-reframe-qustions.png)
@@ -120,32 +121,32 @@ This is the arch of the final solution:
 
 ### Trying Mixtral vs GPT
 
-😢 Trying the state of the art open source LLM at time of development, Mixtral led to poor performance. OS LLMs not there yet vs GPT4
+😢 Trying the state of the art open source LLM at time of development, Mixtral led to poor performance. Hopefully Llama 3 would perform better!
 
 ![Mixtral eval](/assets/rag/rag-mixtral.png)
 
 ### Architecture notes
 
-Chat interface implement with Chainlit for quick chatbot UI.
+Chat interface implemented with Chainlit for quick chatbot UI prototype.
 
-Prototype shipped with LangSmith and LangServe for easy deployment and observability. We have very similar capabilities to the ones demoed in honeycomb.
+Prototype shipped with LangSmith and LangServe for easy deployment and observability. Currently I have very similar telemery capabilities to Langsmith with honeycomb.
 <br>
-💡 One thing missing from our honeycomb solution is with LangSmith they have a **1 click button to export a trace context to an interactive prompt playground**. This could be good to implement, for debugging and allowing more prompt collab.
+💡 Langsmith also has a prompt playground feature with 1 click prompt playground exports of prompts. This is a good idea to add to honeycomb.
 
 ### Improvement opportunities
 
 Some usability learnings, discovered during development:
 
-How does the tool choose the docs? I want to select them → make them selectable
+How does the tool choose the docs? Empower users to select them → make them selectable
 
-Monograph is too long, don’t see where the info comes from → highlight source section
+Monographs are too long, users can't see where the info comes from → highlight source section
 
 Open usability challenges
 
 1. Oh I need to ask a question?
-2. Dr feels attacked by rephrasing the question
+2. Dr feels attacked by rephrasing the question -> Is my question not good enough?
 
 Need more automatic evaluations:
 
 1. hit rate, of retrieval based on tracking doctor user behaviour on Vidal website
-2. Auto score with LLM as a judge
+2. Auto score with LLM as a judge, could use [ragas](https://github.com/explodinggradients/ragas) for this.
