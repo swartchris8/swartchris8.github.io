@@ -6,10 +6,10 @@ categories:
 tags:
   - ML
   - NLP
-last_modified_at: 2024-05-22T10:36:30-05:00
+last_modified_at: 2024-05-22T10:37:30-05:00
 ---
 
-This is my summary of the talk RAG for a medical company: the technical and product challenges by [Noe Achache](https://www.linkedin.com/in/noe-achache/) delivered at PyData Berlin 2024.
+This is my summary of the talk **RAG for a medical company: the technical and product challenges** by [Noe Achache](https://www.linkedin.com/in/noe-achache/) delivered at PyData Berlin 2024.
 
 ### Product background
 
