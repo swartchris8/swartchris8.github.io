@@ -4,4 +4,4 @@ title: Articles
 category: Article
 ---
 
-My blog articles:
+My articles:
