@@ -89,6 +89,8 @@ Mixing your group's strengths can open new doors!
   - Watch their strengths closely
   - Tell them when they do great
 
+You can start thinking about your Support Network by filling out the Bingo card:
+
 ![Manager Voltron Bingo page from https://wizardzines.com/zines/manager/](/assets/voltron_manager_bingo.jpg)
 
 Manager Voltron Bingo page from [Julia Evans’ Help! I have a manager! Zine](https://wizardzines.com/zines/manager/)
