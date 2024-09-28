@@ -38,6 +38,7 @@ Table of contents:
 3. Trust them when they say yes
 
    ![Screenshot 2024-09-28 at 14.33.26.png](/assets/clear_goals.png)
+   Example of setting clear goals from [Julia Evans’ Help! I have a manager! Zine](https://wizardzines.com/zines/manager/)
 
 ### 🎸 Rocking Performance Reviews
 
@@ -90,4 +91,4 @@ Mixing your group's strengths can open new doors!
 
 ![Manager Voltron Bingo page from https://wizardzines.com/zines/manager/](/assets/voltron_manager_bingo.jpg)
 
-Manager Voltron Bingo page from https://wizardzines.com/zines/manager/
+Manager Voltron Bingo page from [Julia Evans’ Help! I have a manager! Zine](https://wizardzines.com/zines/manager/)
