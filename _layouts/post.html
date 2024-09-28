@@ -11,6 +11,7 @@ layout: default
   <div class="post-body">
     {{ content }}
     {% include post-tags.html post=page %}
+    {% include post-tail.html post=page %}
   </div>
   {% include subscribe_form.html %}
   {% include related_posts.html %}

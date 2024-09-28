@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Posts
+title: Articles
 ---
 
 My blog articles:
