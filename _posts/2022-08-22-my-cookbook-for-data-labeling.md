@@ -2,7 +2,7 @@
 layout: post
 title: "My cookbook for data creation"
 categories:
-  - Posts
+  - Article
 tags:
   - NLP
   - ML

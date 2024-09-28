@@ -2,7 +2,7 @@
 layout: post
 title: "Crunch Conference -- Weak Supervision Workshop"
 categories:
-  - Posts
+  - Article
 tags:
   - NLP
 last_modified_at: 2022-10-05T16:55:00-00:00

@@ -2,7 +2,7 @@
 layout: post
 title: "Working with Manager"
 categories:
-  - Posts
+  - Article
 tags:
   - work
 last_modified_at: 2024-09-28T11:07:30+02:00

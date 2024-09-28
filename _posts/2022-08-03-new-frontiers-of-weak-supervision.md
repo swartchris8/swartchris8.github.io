@@ -2,7 +2,7 @@
 layout: post
 title: "Data Centric AI: New Frontiers of Weak Supervision"
 categories:
-  - Posts
+  - Article
 tags:
   - NLP
   - ML

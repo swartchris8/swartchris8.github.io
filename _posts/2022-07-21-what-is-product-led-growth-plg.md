@@ -2,9 +2,9 @@
 layout: post
 title: "What's Product Led Growth (PLG)?"
 categories:
-- Posts
+  - Article
 tags:
-- startup
+  - startup
 last_modified_at: 2022-07-21T14:59:27-05:00
 ---
 

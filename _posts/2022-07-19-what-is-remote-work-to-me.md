@@ -2,7 +2,7 @@
 layout: post
 title: "What does remote work mean to me?"
 categories:
-- Posts
+- Article
 tags:
 - management
 - career

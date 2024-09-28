@@ -2,7 +2,7 @@
 layout: post
 title: "Talk Summary - RAG for a medical company: the technical and product challenges by Noe Achache"
 categories:
-  - Posts
+  - Article
 tags:
   - ML
   - NLP

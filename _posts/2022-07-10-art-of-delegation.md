@@ -2,15 +2,14 @@
 layout: post
 title: "Manager Tools -- The Art of Delegation"
 categories:
-- Posts
+  - Article
 tags:
-- management
-- career
+  - management
+  - career
 last_modified_at: 2022-07-10T14:59:27-05:00
 ---
 
 Manager Tools -- The Art of Delegation
-
 
 I am working on becoming a better cofounder at [Comtura](https://comtura.ai/). Studying Manager Tools, a management podcast, has given me better tools to succeed as a manager. I will share my interpretation and learnings of my fav episodes.
 
@@ -39,10 +38,8 @@ I can't delegate something that I don't know how to do or what success looks lik
 
 In general hiring is a last resort as it's expensive and difficult to scale.
 
-
 It's hard for me to balance delegation and individual contributions at our current stage I need to make large contributions but I also need to manage my team. I think the best way to think more about delegation is to think on a team or company level rather than individual level. So the daily question becomes: What can Comtura do to succeed? What can my team do to succeed? -- rather than -- What can I do to succeed?
 
 If you work in sales try out [Comtura](https://comtura.ai/) to weaponise your customer's voice. Capture what your prospect said in Zoom, MS Teams, or Gong and push it Salesforce or Hubspot.
 
 Many thanks to Manager Tools for making an awesome podcast available for free! [Here's](https://www.manager-tools.com/2005/08/the-art-of-delegation) a link to the 1st Art of Delegation episode.
-

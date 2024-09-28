@@ -2,7 +2,7 @@
 layout: post
 title: "Grow with the help of mentors"
 categories:
-- Posts
+- Article
 tags:
 - career
 last_modified_at: 2022-06-11T14:59:27-05:00

@@ -2,7 +2,7 @@
 layout: post
 title: "Lesson 1 | Practical Deep Learning for Coders -- Nürnberg"
 categories:
-- Posts
+- Article
 tags:
 - ML
 - NLP

@@ -2,7 +2,7 @@
 layout: post
 title: "Practical Deep Learning for Coders -- Nürnberg + Zoom edition"
 categories:
-- Posts
+- Article
 tags:
 - ML
 - NLP

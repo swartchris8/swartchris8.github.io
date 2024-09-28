@@ -2,7 +2,7 @@
 layout: post
 title: "What I learned starting Comtura"
 categories:
-- Posts
+- Article
 tags:
 - startup
 last_modified_at: 2023-06-24T23:25:30-05:00

@@ -2,7 +2,7 @@
 layout: post
 title: "Summary of Eugene Yan's LLM patterns"
 categories:
-  - Posts
+  - Article
 tags:
   - ML
   - NLP

@@ -2,7 +2,7 @@
 layout: post
 title: "Make incubators action driven"
 categories:
-- Posts
+- Article
 tags:
 - startup
 last_modified_at: 2023-01-06T23:21:30-05:00

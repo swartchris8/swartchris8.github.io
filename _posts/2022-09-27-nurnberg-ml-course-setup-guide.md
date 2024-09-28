@@ -2,7 +2,7 @@
 layout: post
 title: "Setup guide for Practical Deep Learning for Coders -- Nürnberg"
 categories:
-- Posts
+- Article
 tags:
 - ML
 - NLP

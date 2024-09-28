@@ -2,7 +2,7 @@
 layout: post
 title: "What got me into machine learning and Natural Language Processing (NLP)?"
 categories:
-- Posts
+- Article
 tags:
 - ML
 - NLP

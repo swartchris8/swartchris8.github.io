@@ -2,7 +2,7 @@
 layout: post
 title: "How to persuade someone to get a dog?"
 categories:
-- Posts
+- Article
 tags:
 - random
 last_modified_at: 2022-10-11T23:21:30-05:00

@@ -2,7 +2,7 @@
 layout: post
 title: "Flinching from danger holds you back from success"
 categories:
-- Posts
+- Article
 tags:
 - productivity
 last_modified_at: 2023-08-04T13:53:30-05:00
