@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Working with Manager"
+title: "Manager - User Guide"
 categories:
   - Article
 tags:
   - work
-last_modified_at: 2024-09-28T11:07:30+02:00
+last_modified_at: 2024-09-29T11:07:30+02:00
 ---
 
 These are my notes on working with a manager completely based on [Julia Evans’ Help! I have a manager! Zine](https://wizardzines.com/zines/manager/) which also recommends [Laura Hogan’s When your manager isn't supporting you, build a Voltron](https://larahogan.me/blog/manager-voltron/) article

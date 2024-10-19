@@ -11,7 +11,7 @@ last_modified_at: 2024-10-20T00:12:00+02:00
 ---
 
 
-I am preparing for a talk at KI Navigator on the Language Model Query Language and Retrieval Augmented Generation (RAG).
+I am preparing for a talk at KI Navigator on the 21st of November about the Language Model Query Language and Retrieval Augmented Generation (RAG).
 These are the slides for the initial version of the talk
 [View Presentation Slides](/assets/rag_lmql_slides_v4.html)
 
