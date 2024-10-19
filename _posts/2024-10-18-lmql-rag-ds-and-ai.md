@@ -7,7 +7,7 @@ tags:
   - NLP
   - RAG
   - LMQL
-last_modified_at: 2024-10-20T00:12:00+02:00
+last_modified_at: 2024-10-18T00:12:00+02:00
 ---
 
 I am preparing for a talk at KI Navigator on the 21st of November about the Language Model Query Language and Retrieval Augmented Generation (RAG).
