@@ -5,7 +5,7 @@ categories:
   - Article
 tags:
   - TIL
-last_modified_at: 2025-02-05T00:08:00+02:00
+last_modified_at: 2025-02-06T00:08:00+02:00
 ---
 
 # Fluent Forever - Chapter 1 Notes
@@ -79,3 +79,62 @@ I want to be able to communicate with Dilek in her mother tongue and talk with h
 - Stay consistent with daily practice
 - Avoid English translations from the start
 - Learn proper pronunciation before vocabulary
+
+# Fluent Forever Chapter 2 Notes
+
+Best chapter so far!
+
+1. **Making Memories More Memorable**
+- Structure for connections
+- More connections lead to better memory
+- Less connections lead to forgetting
+- (hardest to remember) Structure, Sound, Concept, Personal Connection (easiest to remember)
+- Use mnemonics such as a symbol or colour for der / die / das or combining images to make things more memorable
+
+2. **Study Until First Recall**
+- Take up is timing
+- Study until 1 rep
+
+3. **Don't Review - Recall**
+Take a German vocab test:
+- 5 more minutes review
+- Get a blank sheet of paper and test yourself
+- Get a blank sheet of paper and test yourself
+
+Test results after 1 week:
+- 30% - Study
+- 45% - 1x test yourself + study
+- 52% - 3x test yourself + study
+
+4. **Wait, Wait, Don't Tell Me**
+- Hippocampus - memory formation
+- Amygdala - emotions
+
+5. **Revisit the Past**
+- Graph showing recall practice over time
+- Memory retention curves
+
+DIY Deck Building:
+- Power of the creative process
+- Creating your own deck helps
+- Learn to sketch
+- Compare items
+
+Flashcard System:
+1. Sounds of language
+2. 625 most frequent words
+- Pictures, personal connections, sounds
+- Google image search
+- Wiki-based sources for audio
+
+Card Types:
+- Comprehension card: bear =?
+- Production card: big, furry animal, likes to eat honey =?
+
+Card Creation:
+1. Create flash cards
+2. Review cards
+- 15-30 new cards/day
+- 20 min review/day
+
+Card creation - 20 min/day or longer on Sunday
