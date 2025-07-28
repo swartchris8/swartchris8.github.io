@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "Nuremberg Toastmasters"
+title: "Nuremberg Toastmasters Club Officer Guide"
 categories:
   - Article
 tags:
   - Toastmaster
-last_modified_at: 2025-07-28T17:12:00+02:00
+last_modified_at: 2025-07-28T17:13:00+02:00
 ---
-
-# Nuremberg Toastmasters Club Officer Guide
-
 ## Club Information
 
 **Meeting Schedule:** 1st and 3rd Mondays of each month, 19:00 – 21:00  
@@ -23,7 +20,7 @@ last_modified_at: 2025-07-28T17:12:00+02:00
 
 ---
 
-## Officer Team 2024/2025
+## Officer Team 2025/2026
 
 ### President (Christiaan)
 **Role Summary:** Our CEO; provides helpful, supportive leadership for all activities.
