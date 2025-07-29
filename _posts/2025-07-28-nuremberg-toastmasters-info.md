@@ -5,7 +5,7 @@ categories:
   - Article
 tags:
   - Toastmaster
-last_modified_at: 2025-07-28T17:13:00+02:00
+last_modified_at: 2025-07-289T12:13:00+02:00
 ---
 ## Club Information
 
@@ -13,17 +13,17 @@ last_modified_at: 2025-07-28T17:13:00+02:00
 **Location:** Deutsch-Amerikanisches-Institut, Gleißbühlstraße 9, 90402 Nürnberg
 
 **Club Resources:**
-- Live Progress Dashboard: https://dashboards.toastmasters.org/ClubReport.aspx?id=00008040
-- Club Website: https://nuremberg-toastmasters.de/
-- Meetup Page: https://www.meetup.com/de-DE/nuremberg-toastmasters/
-- Member Resources: https://nuremberg-toastmasters.de/members/
+- [Live Progress Dashboard](https://dashboards.toastmasters.org/ClubReport.aspx?id=00008040)
+- [Club Website](https://nuremberg-toastmasters.de/)
+- [Meetup Page](https://www.meetup.com/de-DE/nuremberg-toastmasters/)
+- [Member Resources](https://nuremberg-toastmasters.de/members/)
 
 ---
 
 ## Officer Team 2025/2026
 
-### President (Christiaan)
-**Role Summary:** Our CEO; provides helpful, supportive leadership for all activities.
+### President (Chris)
+**Role Summary:** Helpful, supportive leadership, presides over meetings
 
 **Key Responsibilities:**
 - Recognize training achievements and serve as first contact for officers
@@ -33,16 +33,20 @@ last_modified_at: 2025-07-28T17:13:00+02:00
 - Responsible for everything in the club
 - Coordinate between all officer roles
 
+![President Image](/assets/toastmaster/president.png)
+
 ### VP Education (Guenter)
 **Role Summary:** Plans each meeting; helps members achieve developmental goals.
 
 **Key Responsibilities:**
 - Monitor member goals and speech progress
-- Coordinate mentoring relationships
+- Coordinate Club Quality Programme
 - Discuss pathways and guide role assignments
 - Organize training events and workshops
 - Serve as deputy to President and attend DCM
 - Structure meetings for maximum educational value
+
+![VP Ed Image](/assets/toastmaster/vp_education.png)
 
 ### VP Membership (Zelalem)
 **Role Summary:** Maintains contact with guests; helps guests become members.
@@ -54,6 +58,8 @@ last_modified_at: 2025-07-28T17:13:00+02:00
 - Maintain member records and databases
 - Follow up with guests to convert to members
 
+![VP Membership Image](/assets/toastmaster/vp_membership.png)
+
 ### VP Public Relations (Simon)
 **Role Summary:** Promotes the activities of the Club through social media.
 
@@ -64,15 +70,18 @@ last_modified_at: 2025-07-28T17:13:00+02:00
 - Find venues, network externally, coordinate press releases
 - Create promotional materials and advertising campaigns
 
+![VP PR Image](/assets/toastmaster/vp_pr.png)
+
 ### Secretary (Simona)
 **Role Summary:** Maintains Club records; keeps minutes of Executive Committee meetings.
 
 **Key Responsibilities:**
 - Keep official records and meeting minutes
 - Communicate aligned actions and policies to members
+- Communicate with TMI International
 - Support TMI operations and ensure policy compliance
-- Communicate with TMI International and attend Annual Business Meetings
-- Ensure club actions align with TMI policies
+
+![President Image](/assets/toastmaster/vp_education.png)
 
 ### Treasurer (Florin)
 **Role Summary:** Manages Club bank account; transfers member fees to TMI.
@@ -85,6 +94,8 @@ last_modified_at: 2025-07-28T17:13:00+02:00
 - Update club on financial situation regularly
 - Ensure TMI financial obligations are met
 
+![Secretary Image](/assets/toastmaster/secretary.png)
+
 ### Sergeant at Arms (Ankit)
 **Role Summary:** Sets up meeting room; manages Club physical inventory.
 
@@ -95,8 +106,10 @@ last_modified_at: 2025-07-28T17:13:00+02:00
 - Maintain order during contests (no entry during speeches)
 - Assist with timing and ensure meetings run on schedule
 
+![Sgt at Arms Image](/assets/toastmaster/sgt_at_arms.png)
+
 ### Immediate Past President (David)
-**Role Summary:** Supports and guides current officer team.
+**Role Summary:** Supports and guides current officer team, helps with CSP
 
 **Key Responsibilities:**
 - Provide mentorship and guidance to current officers based on previous experience
